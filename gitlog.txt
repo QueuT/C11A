@@ -1,3 +1,12 @@
+a51002f8f114571e2f71cdd26af286eaded3eedb Fernandez, commit and put it in the repository.
+d281d90eb9f6e510b3b4eaa70c35f2f897ee56bf gitlog.txt
+10e06b9afbdbe8ac9982742296eee0ae1fde0e39 Fernandez, commit with Cat and MyDrawing and added into the remote repository.
+f818ebcc9272f514043f983691efe1bc1b2c36ce Committing the finished cat meow into remote repository
+a4752eca5dbd27c711287c853b2d9fd28d3b8c65 TEST IT IS NOT WORKING
+05b599a08f8d44d7886e86ceba82fb9125c7b7b4 Committing the cat meow, quincy
+49a470bef1a2a6f6fda2a34384485306e3beadef first commit quincy
+a51002f8f114571e2f71cdd26af286eaded3eedb Fernandez, commit and put it in the repository.
+d281d90eb9f6e510b3b4eaa70c35f2f897ee56bf gitlog.txt
 10e06b9afbdbe8ac9982742296eee0ae1fde0e39 Fernandez, commit with Cat and MyDrawing and added into the remote repository.
 f818ebcc9272f514043f983691efe1bc1b2c36ce Committing the finished cat meow into remote repository
 a4752eca5dbd27c711287c853b2d9fd28d3b8c65 TEST IT IS NOT WORKING
